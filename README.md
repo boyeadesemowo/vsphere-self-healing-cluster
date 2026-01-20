@@ -22,7 +22,7 @@ without administrator intervention.
 
 ---
 
-## 🧱 Architecture
+## 🧱 Architecture Overview
 
 ![vSphere Self-Healing Cluster Architecture](diagrams/vsphere-self-healing-architecture.png)
 
