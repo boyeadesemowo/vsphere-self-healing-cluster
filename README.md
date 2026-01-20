@@ -22,6 +22,14 @@ without administrator intervention.
 
 ---
 
+## 🧱 Architecture
+
+![vSphere Self-Healing Cluster Architecture](diagrams/vsphere-self-healing-architecture.png)
+
+High-level logical architecture of a nested vSphere 8 cluster demonstrating
+High Availability (HA), Distributed Resource Scheduler (DRS), and vMotion
+using shared NFS storage.
+
 ## 🎥 Demonstrations
 
 ### 1️⃣ vMotion — Live Migration
